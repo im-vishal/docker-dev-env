@@ -12,6 +12,7 @@
 
 ##### To create image
 `docker build -t fastapi-image .`
+
 `docker compose up`
 
 ##### To rebuild image
